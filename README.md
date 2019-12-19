@@ -12,7 +12,7 @@ class diagram showing modules and their member functions
               
 
 
-This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/_new) with a guide for installation.
+This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
 
 ## Authors 
 * Mohammed Abdul-Rahman - a,b
