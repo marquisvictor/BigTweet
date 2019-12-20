@@ -25,8 +25,8 @@ This page provides the source code for running BigTweet and a [Wiki page](https:
 
 * [Man Sing Wong](https://scholar.google.com.hk/citations?user=poqz28gAAAAJ&hl=en)<sup>c</sup>
 
-a - Department of Building and Real Estate, The Hong Kong Polytechnic University, Hong Kong
+a - [Department of Building and Real Estate, The Hong Kong Polytechnic University, Hong Kong](http://www.bre.polyu.edu.hk/)
 
-b - AI Africa Lab, Lagos, Nigeria
+b - [AI Africa Lab, Lagos, Nigeria](https://twitter.com/aiafricalab)
 
-c - Department of Land Surveying and Geo-informatics, The Hong Kong Polytechnic University, Hong Kong
+c - [Department of Land Surveying and Geo-informatics, The Hong Kong Polytechnic University, Hong Kong](http://www.lsgi.polyu.edu.hk/home/index.asp)
