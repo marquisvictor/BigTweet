@@ -15,7 +15,7 @@ class diagram showing modules and their member functions
 This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
 
 ## Authors 
-* Mohammed Abdul-Rahman<sup>a,b</sup>
+* Mohammed Abdul-Rahman<sup>1a,b</sup>
 
 * Victor E. Irekponor<sup>b</sup>
 
