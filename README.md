@@ -15,15 +15,15 @@ BigTweet provides a means of getting old/backdated twitter data for analysis, by
 This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
 
 ## Authors 
-* Mohammed Abdul-Rahman<sup>1a,b</sup>
+* [Mohammed Abdul-Rahman](https://www.linkedin.com/in/mohammed-abdul-rahman-73741869/)<sup>1a,b</sup>
 
-* Victor E. Irekponor<sup>b</sup>
+* [Victor E. Irekponor](https://www.linkedin.com/in/veirekponor/)<sup>b</sup>
 
 * Maryam O. Abdul-Rahman<sup>b</sup>
 
-* Edwin H.W. Chan<sup>a</sup>
+* [Edwin H.W. Chan](https://scholar.google.com/citations?user=QHGVaJsAAAAJ&hl=en)<sup>a</sup>
 
-* Man Sing Wong<sup>c</sup>
+* [Man Sing Wong](https://scholar.google.com.hk/citations?user=poqz28gAAAAJ&hl=en)<sup>c</sup>
 
 a - Department of Building and Real Estate, The Hong Kong Polytechnic University, Hong Kong
 
