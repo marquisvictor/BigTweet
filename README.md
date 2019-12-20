@@ -6,7 +6,7 @@ BigTweet provides a means of getting old/backdated twitter data for analysis, by
 
 
 # Software Architecture for BigTweet 
-class diagram showing modules and their member functions
+<p style="text-align: center;"> class diagram showing modules and their member functions </p> 
 
 ![BigTweet Class Diagram](https://github.com/marquisvictor/BigTweet/blob/master/BigTweet/BigTweet%20Scheme%20of%20Software%20Architecture.png)
               
