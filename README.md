@@ -55,7 +55,7 @@ The following are step by step procedures that would eventually ensure that twee
   - maxtweets (**int**): The maximum number of tweets to be retrieved. If no number is set here or is lower than 1 all possible tweets will be retrieved.
 
 
-For instance, if we needed a ten-year historic (old) Tweets. All the English tweets sent from `*First of January 2009` till `First of January 2019` and from Hung Hum District in Hong Kong, the combination command line arguments below would be used. 
+For instance, if we needed a ten-year historic (old) Tweets. All the English tweets sent from `First of January 2009` till `First of January 2019` and from Hung Hum District in Hong Kong, the combination command line arguments below would be used. 
 
 ```
 python BigTweet.py --near "22.3029, 114.1816" --within 4km --lang es --since 2009-01-01 --until 2019-01-01 --output hongkong.csv
