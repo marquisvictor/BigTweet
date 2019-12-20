@@ -15,15 +15,15 @@ class diagram showing modules and their member functions
 This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
 
 ## Authors 
-* Mohammed Abdul-Rahman - a,b
+* Mohammed Abdul-Rahman<sup>a,b</sup>
 
-* Victor E. Irekponor - b
+* Victor E. Irekponor<sup>b</sup>
 
-* Maryam O. Abdul-Rahman - b
+* Maryam O. Abdul-Rahman<sup>b</sup>
 
-* Edwin H.W. Chan - a
+* Edwin H.W. Chan<sup>a</sup>
 
-* Man Sing Wong - c
+* Man Sing Wong<sup>c</sup>
 
 a - Department of Building and Real Estate, The Hong Kong Polytechnic University, Hong Kong
 
