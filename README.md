@@ -52,7 +52,7 @@ The following are step by step procedures that would eventually ensure that twee
   - toptweets (**bool**): If True only the Top Tweets will be retrieved.
   - near (**str**): A reference location area from where tweets were generated.
   - within (**str**): A distance radius from "near" location (e.g. 25km)
-  - lang (**str**): Filter tweets by language. (e.g en - english tweets, cn - chinese tweets, es - spanish tweeets, etc.) 
+  - lang (**str**): Filter tweets by language. (e.g `en` - english tweets,  `cn` - chinese tweets, `es` - spanish tweeets, etc.) 
   - maxtweets (**int**): The maximum number of tweets to be retrieved. If no number is set here or is lower than 1 all possible tweets will be retrieved.
 
 
