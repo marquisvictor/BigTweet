@@ -81,7 +81,7 @@ When you run this command from command line, it typically returns the following 
 
 * [Victor E. Irekponor](https://www.linkedin.com/in/veirekponor/)<sup>b</sup>
 
-* Maryam O. Abdul-Rahman<sup>b</sup>
+* [Maryam O. Abdul-Rahman](https://www.linkedin.com/in/maryam-abdul-rahman-74aab658/)<sup>b</sup>
 
 * [Edwin H.W. Chan](https://scholar.google.com/citations?user=QHGVaJsAAAAJ&hl=en)<sup>a</sup>
 
