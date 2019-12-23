@@ -76,7 +76,7 @@ When you run this command from command line, it typically returns the following 
 
 **<p align="center"> BigTweet output.csv </p>**
 
-<p align="center">![Example of an Output csv file](https://github.com/marquisvictor/BigTweet/blob/master/BigTweet/five.png)</p>
+![Example of an Output csv file]<p align="center">(https://github.com/marquisvictor/BigTweet/blob/master/BigTweet/five.png)</p>
 
 
 
