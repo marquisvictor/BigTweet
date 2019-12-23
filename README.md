@@ -74,6 +74,11 @@ When you run this command from command line, it typically returns the following 
   - hashtags (str)
   - geo (str)
 
+**<p align="center"> BigTweet output.csv </p>**
+
+![Example of an Output csv file](https://github.com/marquisvictor/BigTweet/blob/master/BigTweet/five.png)
+
+
 
 
 ## Authors 
