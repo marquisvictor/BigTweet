@@ -1,11 +1,15 @@
+---
 # BigTweet
+
+---
 
 The BigTweet tool was built out of the need to eliminate the barriers that the Twitter API imposes so as to help researchers, businesses and organizations get all the tweets data they need for various analysis in their different line of operations, with ease and from command line, meaning no prior extensive programming knowledge is required. 
 BigTweet provides a means of getting old/backdated twitter data for analysis, bypassing the rate limits and restrictions from twitter API, giving you unlimited tweet textual data along with some other metadata such as; dates and time information, likes, retweets, replies, and permalinks (unique link to a tweet).
 
-
+---
 
 # Software Architecture for BigTweet 
+---
 **<p align="center"> class diagram showing modules and their member functions </p>**
 
 ![BigTweet Class Diagram](https://github.com/marquisvictor/BigTweet/blob/master/BigTweet/final%20class%20diagram.png)
@@ -14,8 +18,10 @@ BigTweet provides a means of getting old/backdated twitter data for analysis, by
 
 This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
 
+---
 
 ## System requirements and Specification
+---
 
 ##### Operating system
 BigTweet was tested on Ubuntu distribution of the Linux operating system and on Windows 7, 8, 10.
@@ -28,8 +34,9 @@ Python 3.5 or higher
 - Request
 - urllib 
 
-
+---
 ## Usage
+---
 
 The following are step by step procedures that would eventually ensure that tweets are downloaded and ready for analysis. 
 
@@ -58,7 +65,7 @@ The following are step by step procedures that would eventually ensure that twee
 
 For instance, if we needed a ten-year historic (old) Tweets. All the English tweets sent from `First of January 2009` till `First of January 2019` and from Hung Hum District in Hong Kong, the combination command line arguments below would be used. 
 
-```
+```bash
 python BigTweet.py --near "22.3029, 114.1816" --within 4km --lang es --since 2009-01-01 --until 2019-01-01 --output hongkong.csv
 ```
 
@@ -80,8 +87,9 @@ When you run this command from command line, it typically returns the following 
 
 
 
-
+---
 ## Authors 
+---
 * [Mohammed Abdul-Rahman](https://www.linkedin.com/in/mohammed-abdul-rahman-73741869/)<sup>1a,b</sup>
 
 * [Victor E. Irekponor](https://www.linkedin.com/in/veirekponor/)<sup>b</sup>
