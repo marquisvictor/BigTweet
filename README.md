@@ -16,8 +16,6 @@ BigTweet provides a means of getting old/backdated twitter data for analysis, by
               
 
 
-This page provides the source code for running BigTweet and a [Wiki page](https://github.com/marquisvictor/BigTweet/wiki/BigTweet-Software-Wiki-page) with a guide for installation.
-
 ---
 
 ## System requirements and Specification
